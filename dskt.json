@@ -1,0 +1,8 @@
+{
+  "author": "Rafacasari",
+  "discord": "286669951987613706",
+  "version": "1.0.0",
+  "type": "MelonLoader",
+  "category": [ "Quality of Life", "Other" ],
+  "description": "A MelonLoader Mod to enable \"offline-mode\" (when Steam is closed) into Desktop Mate. This can be useful if you want to have Desktop Mate on Windows Startup but don't want Steam to open with it."
+}
