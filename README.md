@@ -12,3 +12,8 @@ Offline Mode means that you can run the DesktopMate .exe file without requiring 
 3. (OPTIONAL: Hiding MelonLoader Console) Right-click the Shortcut and click on **Properties**. Now add ` --melonloader.hideconsole` at the end of the shortcut **Target**
 4. Press Win + R, type `shell:Startup` and press enter
 6. It should open a folder, move your shortcut to this folder and you're done!
+
+## How to open multiple instances
+1. First you need to install MelonLoader and this mod, as usual.
+2. Copy the entire DesktopMate folder to a new location (both folders should have MelonLoader and this mod)
+3. Start DesktopMate.exe with **Steam closed**
