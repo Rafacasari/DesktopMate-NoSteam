@@ -17,3 +17,15 @@ Offline Mode means that you can run the DesktopMate .exe file without requiring 
 1. First you need to install MelonLoader and this mod, as usual.
 2. Copy the entire DesktopMate folder to a new location (both folders should have MelonLoader and this mod)
 3. Start DesktopMate.exe with **Steam closed**
+
+## Why it is archived?
+Desktop Mate has updated and make pretty much impossible to mod on newer versions, you can still downgrade using Steam Console and use this mod; but new updates will not be available so it is now a read-only repository.
+
+**How to downgrade?**
+1. Use **Win + R** and execute this command: `steam://nav/console`
+2. It will open Steam Console, just execute the following command to download the latest version compatible with mods:
+`download_depot 3301060 3301061 2467897585300615012`
+3. The files will be available at: `C:\Program Files (x86)\Steam\steamapps\content\app_3301060\depot_3301061` (this may change depending where you have Steam installed)
+4. Install MelonLoader in this folder and you should be ready to use this and many other mods available by the community!
+
+Of course there is other ways of getting the old version, but this is the safest one.
